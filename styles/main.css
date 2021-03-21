@@ -1,0 +1,33 @@
+body {
+	position: relative;
+	min-height: 100%;
+	top: 0px;
+	background: #112;
+	color: #ddd;
+}
+
+header {
+	padding: 20px 5px 0px 5px;
+}
+
+body p {
+	padding: 5px;
+	font-size: 12;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0px;
+	border-radius: 2px;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	background: green;
+	padding: 5px 20px;
+}
+
+nav ul li a {
+	color: white;
+}
